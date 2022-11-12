@@ -10,4 +10,7 @@ project (2)
 -Computer generates a randon number and you get certain amount of life to guess the right number!
 -Its simple and fun to code
 
-#Have fun with this calculator and Change it to make it simpiler.
+project (3)
+-Simple Multiplication of a number and then return the sum of all the multiplication
+-Simple and easy 
+
