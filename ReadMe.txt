@@ -14,3 +14,9 @@ project (3)
 -Simple Multiplication of a number and then return the sum of all the multiplication
 -Simple and easy 
 
+Project (4)
+- Simple Ceaser Cipher 
+- Well Commented
+- Cheacks if letter is small or capital.
+- takes assci code of a number and then returning the charecter coosponding after the shift
+
