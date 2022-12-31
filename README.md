@@ -26,3 +26,6 @@ Greetings,
 -   Simple tempreture convertor with infinit loop and exit functionality.
 -   Interger Evaluation and verifier
 
+## Project[6]
+- Simple prime number checker
+- Uses functions to input validation and infinit loop and quit options.
