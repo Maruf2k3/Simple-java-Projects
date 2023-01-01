@@ -1,5 +1,5 @@
-# 30Days-JavaJam
-This is a 30 days Java simple programing Challange
+# Simple-java-Projects
+This is Java simple programing Challanges
 Greetings,
 
 ## Project[1]
@@ -27,5 +27,10 @@ Greetings,
 -   Interger Evaluation and verifier
 
 ## Project[6]
-- Simple prime number checker
-- Uses functions to input validation and infinit loop and quit options.
+-   Simple prime number checker
+-   Uses functions to input validation and infinit loop and quit options.
+
+##Project[7]
+-   Its a simple terminal based TODO list App
+-   have few main functionality as [add , remove , display]
+-   Buit in user value validation and few error catching conditions
