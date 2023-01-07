@@ -30,7 +30,7 @@ Greetings,
 -   Simple prime number checker
 -   Uses functions to input validation and infinit loop and quit options.
 
-##Project[7]
+## Project[7]
 -   Its a simple terminal based TODO list App
 -   have few main functionality as [add , remove , display]
 -   Buit in user value validation and few error catching conditions
